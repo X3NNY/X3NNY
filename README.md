@@ -6,6 +6,7 @@
 - 🏫 毕业于SWPU - 电子与计算机工程
 - 🌱 [CTF-wiki](https://github.com/ctf-wiki/ctf-wiki)密码学板块维护者
 - 🌱 [NSSCTF](https://www.ctfer.vip/)平台开发&维护者
+- 🎉 `pip3 install xenny` - ALL OF CTF
 
 ## &#x1f92b; Github Visitors
 
